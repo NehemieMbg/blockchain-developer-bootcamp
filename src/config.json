@@ -1,16 +1,16 @@
 {
 	"31337": {
 		"exchange": {
-			"address": "0x9d4454B023096f34B160D6B654540c56A1F81688"
+			"address": "0xa513E6E4b8f2a923D98304ec87F64353C4D5C853"
 		},
 		"Emerys": {
-			"address": "0x99bbA657f2BbC93c02D617f8bA121cB8Fc104Acf"
+			"address": "0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9"
 		},
 		"mETH": {
-			"address": "0x0E801D84Fa97b50751Dbf25036d067dCf18858bF"
+			"address": "0x5FC8d32690cc91D4c39d9d3abcBD16989F875707"
 		},
 		"mDAI": {
-			"address": "0x8f86403A4DE0BB5791fa46B8e795C547942fE4Cf"
+			"address": "0x0165878A594ca255338adfa4d48449f69242Eb8F"
 		}
 	}
 }
